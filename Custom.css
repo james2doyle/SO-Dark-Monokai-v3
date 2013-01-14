@@ -50,6 +50,10 @@
 	position: static !important;
 }
 
+#-webkit-web-inspector.dock-to-right .sidebar-pane-subtitle {
+	right: 22px !important;
+}
+
 /*
 	Styles
 */
