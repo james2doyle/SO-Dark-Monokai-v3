@@ -32,21 +32,21 @@
 	Dock-To-Right when using vertical splitting:
 	https://github.com/mauricelam/DockToRight
 */
-#-webkit-web-inspector .source-code {
+#-webkit-web-inspector.dock-to-right .source-code {
 	left: auto;
 	right: auto;
 	width: 100% !important;
 	height: 50%;
 }
 
-#-webkit-web-inspector .split-view-sidebar-right {
+#-webkit-web-inspector.dock-to-right .split-view-sidebar-right {
 	left: auto;
 	right: auto;
 	width: 100% !important;
 	height: 50%;
 }
 
-#-webkit-web-inspector .split-view-contents {
+#-webkit-web-inspector.dock-to-right .split-view-contents {
 	position: static !important;
 }
 
